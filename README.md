@@ -19,7 +19,7 @@ A piece of border between Lower Saxony and Brandenburg is missing, because the d
 
 Here is a collection of some of the more interesting results, more can be found at [pics/](pics/).
 
-#### Some of the most common substrings
+### Some of the most common substrings
 
 berg (hill/mountain)  
 ![](pics/bedeutung/häufig/berg.png)  
@@ -37,7 +37,7 @@ mühl (mill)
 ![](pics/bedeutung/häufig/mühl.png)  
 
 
-#### Variations on bach (brook/stream)
+### Variations on bach (brook/stream)
 
 bach  
 ![](pics/bedeutung/bach/bach.png)
@@ -49,7 +49,7 @@ bek
 ![](pics/bedeutung/bach/bek.png)
 
 
-#### Variations on stadt (city, but originally, and depending on spelling, also place)
+### Variations on stadt (city, but originally, and depending on spelling, also place)
 
 stadt  
 ![](pics/bedeutung/stadt/stadt.png)  
@@ -67,7 +67,7 @@ stett
 ![](pics/bedeutung/stadt/stett.png)  
 
 
-#### Various river and region names
+### Various river and region names
 
 allgäu  
 ![](pics/fluss/allgäu.png)  
@@ -91,7 +91,7 @@ ruhr
 ![](pics/fluss/ruhr.png)  
 
 
-#### Cardinal directions
+### Cardinal directions
 
 nord (north)  
 ![](pics/ort/nord.png)  
@@ -106,7 +106,7 @@ ost (east)
 ![](pics/ort/ost.png)  
 
 
-#### Relative positions
+### Relative positions
 
 ober (upper)  
 ![](pics/ort/ober.png)  
@@ -124,7 +124,7 @@ hinter (behind)
 ![](pics/ort/hinter.png)  
 
 
-#### Variations on brunn (well or source)
+### Variations on brunn (well or source)
 
 brunn  
 ![](pics/quelle/brunn.png)  
@@ -136,7 +136,7 @@ born
 ![](pics/quelle/born.png)  
 
 
-#### tal and thal (valley)
+### tal and thal (valley)
 
 tal  
 ![](pics/bedeutung/tal/tal.png)  
@@ -145,7 +145,7 @@ thal
 ![](pics/bedeutung/tal/thal.png)  
 
 
-#### Various, which all mean clearing
+### Various, which all mean clearing
 
 rath  
 ![](pics/bedeutung/rodung/rath.png)  
@@ -157,7 +157,7 @@ rode
 ![](pics/bedeutung/rodung/rode.png)  
 
 
-#### Others
+### Others
 
 burg (castle)  
 ![](pics/bedeutung/burg.png)  
